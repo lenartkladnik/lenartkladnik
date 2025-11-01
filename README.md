@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @pyth0g
+- 👋 Hi, I’m @lenartkladnik
 - 👀 I like doing things that seem easy
-- 🌱 I’m currently learning C and C++
-- 😄 Pronouns: he/him
