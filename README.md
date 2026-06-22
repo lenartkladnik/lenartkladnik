@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @lenartkladnik
-- 👀 I like doing things that seem easy
